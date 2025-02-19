@@ -17,7 +17,6 @@ exceptions:
   - Kubernetes
   - Linux
   - macOS
-  - Marketplace
   - MongoDB
   - REPL
   - Studio

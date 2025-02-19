@@ -73,7 +73,7 @@ UnknownPackageRevisionHealth
 XCluster
 XNetwork
 xpkg
-xpkg.upbound.io
+xpkg.crossplane.io
 XR
 XR's
 XRC

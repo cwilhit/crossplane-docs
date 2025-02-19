@@ -46,7 +46,6 @@ exceptions:
   - Kubernetes
   - Linux
   - macOS
-  - Marketplace
   - MongoDB
   - Pod
   - pod

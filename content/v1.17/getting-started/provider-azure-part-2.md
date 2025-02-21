@@ -508,7 +508,7 @@ kubectl get providers
 NAME                            INSTALLED   HEALTHY   PACKAGE                                                  AGE
 provider-azure-compute          True        True      xpkg.crossplane.io/crossplane-contrib/provider-azure-compute:v1.0.0   25s
 provider-azure-network          True        True      xpkg.crossplane.io/crossplane-contrib/provider-azure-network:v1.0.0   3h
-upbound-provider-family-azure   True        True      xpkg.crossplane.io/crossplane-contrib/provider-family-azure:v1.0.0    3h
+crossplane-contrib-provider-family-azure   True        True      xpkg.crossplane.io/crossplane-contrib/provider-family-azure:v1.0.0    3h
 ```
 
 ## Access the custom API

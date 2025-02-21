@@ -52,11 +52,11 @@ Verify the provider installed with `kubectl get providers`.
 kubectl get providers
 NAME                          INSTALLED   HEALTHY   PACKAGE                                                AGE
 provider-gcp-storage          True        True      xpkg.crossplane.io/crossplane-contrib/provider-gcp-storage:v1.0.0   36s
-upbound-provider-family-gcp   True        True      xpkg.crossplane.io/crossplane-contrib/provider-family-gcp:v1.0.0    29s
+crossplane-contrib-provider-family-gcp   True        True      xpkg.crossplane.io/crossplane-contrib/provider-family-gcp:v1.0.0    29s
 ```
 
 The Storage Provider installs a second Provider, the
-{{<hover label="getProvider" line="4">}}upbound-provider-family-gcp{{</hover>}} 
+{{<hover label="getProvider" line="4">}}crossplane-contrib-provider-family-gcp{{</hover>}} 
 provider.   
 The family provider manages authentication to GCP across all GCP family
 Providers. 

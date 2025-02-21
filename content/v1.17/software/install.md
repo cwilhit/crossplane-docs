@@ -324,15 +324,3 @@ Community Crossplane distribution.
 The CNCF certified third-party distributions as 
 "[conformant](https://github.com/cncf/crossplane-conformance)" with the 
 Community Crossplane distribution.
-
-### Vendors
-Below are vendors providing conformant Crossplane distributions. 
-
-#### Upbound
-Upbound, the founders of Crossplane, maintains a free and open source 
-distribution of Crossplane called 
-[Universal Crossplane](https://www.upbound.io/product/universal-crossplane)
-(`UXP`). 
-
-Find information on UXP in the 
-[Upbound UXP documentation](https://docs.upbound.io/uxp/install/).

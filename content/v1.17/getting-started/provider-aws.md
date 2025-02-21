@@ -57,7 +57,7 @@ crossplane-contrib-provider-family-aws   True        True      xpkg.crossplane.i
 ```
 
 The S3 Provider installs a second Provider, the
-{{<hover label="getProvider" line="4">}}upbound-provider-family-aws{{</hover >}}.   
+{{<hover label="getProvider" line="4">}}crossplane-contrib-provider-family-aws{{</hover >}}.   
 The family provider manages authentication to AWS across all AWS family
 Providers. 
 

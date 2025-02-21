@@ -378,7 +378,7 @@ NAME                                       HEALTHY   REVISION   IMAGE           
 provider-aws-s3-dbc7f981d81f               True      1          xpkg.crossplane.io/crossplane-contrib/provider-aws-s3:v1.0.0           Active     1           1               10d
 provider-nop-552a394a8acc                  True      2          xpkg.crossplane.io/crossplane-contrib/provider-nop:v0.3.0   Active                                 11d
 provider-nop-7e62d2a1a709                  True      1          xpkg.crossplane.io/crossplane-contrib/provider-nop:v0.2.0   Inactive                               13d
-upbound-provider-family-aws-710d8cfe9f53   True      1          xpkg.crossplane.io/crossplane-contrib/provider-family-aws:v1.0.0       Active                                 10d
+crossplane-contrib-provider-family-aws-710d8cfe9f53   True      1          xpkg.crossplane.io/crossplane-contrib/provider-family-aws:v1.0.0       Active                                 10d
 ```
 
 By default Crossplane keeps a single 

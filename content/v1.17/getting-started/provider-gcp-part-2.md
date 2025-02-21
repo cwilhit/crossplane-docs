@@ -125,7 +125,7 @@ kubectl get providers
 NAME                          INSTALLED   HEALTHY   PACKAGE                                                AGE
 provider-gcp-pubsub           True        True      xpkg.crossplane.io/crossplane-contrib/provider-gcp-pubsub:v1.11.4.0.0    39s
 provider-gcp-storage          True        True      xpkg.crossplane.io/crossplane-contrib/provider-gcp-storage:v1.0.0   13m
-upbound-provider-family-gcp   True        True      xpkg.crossplane.io/crossplane-contrib/provider-family-gcp:v1.0.0    12m
+crossplane-contrib-provider-family-gcp   True        True      xpkg.crossplane.io/crossplane-contrib/provider-family-gcp:v1.0.0    12m
 ```
 
 
